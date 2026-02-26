@@ -1,5 +1,8 @@
-openai
-python-dotenv
-supabase
-PyJWT
-tk
+anthropic==0.40.0
+pydantic==2.9.2
+structlog==24.4.0
+aiosqlite==0.20.0
+rank_bm25==0.2.2
+asyncio==3.4.3
+pytest==8.3.3
+pytest-asyncio==0.24.0
